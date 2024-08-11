@@ -1,6 +1,4 @@
-# Łukasz Starosta 👨‍💻
-👨‍💻 Lead Software Engineer
-👨‍💻 Master of Engineering, IT
+# Lead Software Engineer, Master of Engineering in IT 👨‍💻
 
 ## About Me 🌟
 Experienced web developer specializing in scalable applications. Proficient in full-stack development and team leadership.
