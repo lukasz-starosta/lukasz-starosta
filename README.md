@@ -1,12 +1,12 @@
 # Lead Software Engineer, Master of Engineering in IT 👨‍💻
 
 ## About Me 🌟
-Experienced web developer specializing in scalable applications. Proficient in full-stack development and team leadership.
+Senior Software Engineer with 6+ years experience specializing in web development, AI and team leadership.
 
 ## Main Skills 🛠️
-- Frontend: React
-- Backend: Node.js, Python,
-- Databases: PostgreSQL, Supabase
+- Frontend: React, Next.js, JS, TS
+- Backend: Node.js, Python, Nest.js
+- Databases: PostgreSQL, Supabase, Firebase
 - DevOps: Docker, AWS, Github Actions
 
 ## Notable Projects 🏆
