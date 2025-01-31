@@ -1,7 +1,7 @@
 # Lead Software Engineer, Master of Engineering in IT 👨‍💻
 
 ## About Me 🌟
-Senior Software Engineer with 6+ years experience specializing in web development, AI and team leadership.
+**Senior Software Engineer with 6+ years experience** specializing in web development, AI and team leadership.
 
 ## Main Skills 🛠️
 - Frontend: React, Next.js, JS, TS
