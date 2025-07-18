@@ -10,7 +10,6 @@
 - DevOps: Docker, AWS, Github Actions
 
 ## Notable Projects 🏆
-- ⚡ [avatarblitz.com](https://avatarblitz.com) - AI-powered avatar generator
 - AI enhanced GEM strategy optimization using XGBoost and other models
 
 ## Current Focus 🔍
