@@ -22,6 +22,9 @@
 - [LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-starosta-78727316a/)
 - [Email](lstarosta98@gmail.com)
 
+## Founded
+- [PromptScout - get noticed by AI](https://promptscout.app)
+
 <!--
 **lukasz-starosta/lukasz-starosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
